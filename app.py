@@ -51,3 +51,4 @@ def check_status(job_id: str):
 
     with open(result_path) as f:
         return json.load(f)
+
