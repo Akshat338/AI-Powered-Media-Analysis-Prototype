@@ -27,11 +27,6 @@ This project is a **vertical prototype** demonstrating a full-stack AI applicati
 
 ## Installation & Setup
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/sentiment-dashboard.git
-cd sentiment-dashboard
-
 2. Create Virtual Environment
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
@@ -49,6 +44,7 @@ uvicorn app:app --reload
 
 Open browser:
 http://127.0.0.1:8000
+
 
 
 
