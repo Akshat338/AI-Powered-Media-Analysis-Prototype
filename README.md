@@ -40,10 +40,13 @@ Download from https://ffmpeg.org
  and add to PATH.
 
 5.Running the Application
+
 uvicorn app:app --reload
 
 Open browser:
+
 http://127.0.0.1:8000
+
 
 
 
